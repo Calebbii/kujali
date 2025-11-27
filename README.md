@@ -391,6 +391,12 @@ Start the App & Emulators
   npm run run-develop
 ```
 
+Testing for Nx unit tests
+
+```bash
+  npm run run-develop
+```
+
 ```
 The project is now succesfuly installed and running on your machine
 ```
