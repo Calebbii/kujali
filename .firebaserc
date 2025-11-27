@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "project-kujali"
-  }
+    "default": "kujali-7a47f"
+  },
+  "targets": {},
+  "etags": {}
 }
